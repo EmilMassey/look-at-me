@@ -65,6 +65,5 @@ jQuery.fn.extend({
                 }, getRandomValue(options.intervals));
             }
         });
-
     }
 });
